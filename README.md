@@ -57,7 +57,7 @@ Locate the generated `.stldr` file in the `Debug` or `Release` folder.
 ## Notes
 
 - Ensure correct hardware connections for QSPI communication.
-- Refer to the [Winbond W25Q128 Datasheet](https://www.winbond.com/resource-files/w25q128jv%20spi%20revg%201122016.pdf) for specifications.
+- Refer to the [Winbond W25Q128 Datasheet]([https://www.winbond.com/resource-files/w25q128jv%20spi%20revg%201122016.pdf](https://www.mouser.com/datasheet/2/949/w25q128jv_revf_03272018_plus-1489608.pdf?srsltid=AfmBOopzuhInUHtcyGRdzTuTY0K5kHJxUMu6ZhyhDLjvV2JQAb0wnVfZ)) for specifications.
 
 ## Contributing
 
